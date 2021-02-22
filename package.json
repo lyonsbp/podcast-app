@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "8.2.3",
-    "husky": "^0.14.3",
+    "husky": "^5.1.0",
     "jest": "^23.1.0",
     "standard": "^11.0.1",
     "concurrently": "^4.0.1"
